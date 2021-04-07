@@ -1,0 +1,22 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "instagram": "node instagram.js",
+    "flipkart": "node flipkart-search.js",
+    "news": "node news.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "dotenv": "^8.2.0",
+    "nightmare": "^3.0.2",
+    "vo": "^4.0.2"
+  }
+}
