@@ -3,10 +3,10 @@ a simple web scraper for automating stuff on sites such as flipkart, ycombinator
 
 for using instagram, create a .env file in the project folder with following details:
 
-INSTA_USERNAME=<your instagram username>
-INSTA_PASSWORD=<your instagram password>
-ACCOUNT_FROM_WHICH_TO_FOLLOW=<the other instagram account you want to follow people from>
-FOLLOWS_TO_DO=<number of follows to do>
+INSTA_USERNAME=(your instagram username)  
+INSTA_PASSWORD=(your instagram password)  
+ACCOUNT_FROM_WHICH_TO_FOLLOW=(the other instagram account you want to follow people from)  
+FOLLOWS_TO_DO=(number of follows to do)  
 
 run "npm run instagram" or "npm run news" or "npm run flipkart". 
 
